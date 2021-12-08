@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyZakatGold</string>
+    <string name="about_text">This is zakat calculator mobile application to count and calculate zakat payable according to gold perspective.</string>
+    <string name="instruction">Instruction </string>
+    <string name="instruction2">First, user must enter the gold weight in gram. Then, user must enter current gold value in RM. Lastly, user must select the type of gold  </string>
+    <string name="hyperlink">Please visit <a href="https://github.com/aimanharith23/MyZakatGold-assignment-aimanharith.git">github.com</a> </string>
+
+    <string-array name="status">
+        <item>Keep</item>
+        <item>Wear</item>
+    </string-array>
+</resources>
